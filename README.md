@@ -2,6 +2,8 @@
 
 Demo for `@expression`, target to verify whether it is doable.
 
+**For demo output**, refer to /demo/main.py, scroll down and you can see comment at the bottom.
+
 Currently implement an init version, which:
 
 - convert expression into object which records statments, and it can be merged
